@@ -1,6 +1,6 @@
 # UASPemrogramanWeb2
 
-folder assets : merupakan bagian dari template(tidak dicantumkan disini karena terlalu banyak)
+folder assets : merupakan bagian dari template(didalam zip)
 
 1. folder config : berisi "db_conn.php" yang berfungsi untuk membuka koneksi dengan mysql server
 2. folder data-processing : berisi "add-data.php" dan "change-data".php 
