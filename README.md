@@ -1,6 +1,6 @@
 # UASPemrogramanWeb2
 
-folder assets : 
+folder assets : merupakan bagian dari template
 
 1. folder config : berisi "db_conn.php" yang berfungsi untuk membuka koneksi dengan mysql server
 2. folder data-processing : berisi "add-data.php" dan "change-data".php 
@@ -12,7 +12,7 @@ folder assets :
 4. File ini berfungsi jika anda ingin merubah,menambahkan suatu design di bagian atas, bawah dan samping website.
     
 5. folder login berisi file "login.php", "logout.php" dan index.php" 
-    Berfungsi sebagai halaman login untuk menjaga kerahasiaan file dan merupakan bagian dari bootstrap.
+    Berfungsi sebagai halaman login untuk menjaga kerahasiaan file dan merupakan bagian dari template.
     
 6. folder page berisi file "add-data.php", "view-data.php", "edit-data.php", dan "dashboard.php"
     Berfungsi untuk admin ketika admin ingin menambahkan data, melihat data, atau mengedit suatu data.
